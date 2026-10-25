@@ -11,12 +11,12 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/shivan-mishra-b7156a317" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:shivanmishra@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  <a href="https://portfolio-one-kappa-d4547w6pje.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://github.com/shivan632">
@@ -153,6 +153,24 @@
 </div>
 
 ---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivan-mishra-b7156a317" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-one-kappa-d4547w6pje.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/shivan632">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<br />
 
 <p align="center">
   <b>⭐ Thanks for visiting my GitHub! Let's connect and build something awesome together.</b>
